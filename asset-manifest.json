@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital_assignment/static/css/main.066ac87f.css",
+    "main.js": "/digital_assignment/static/js/main.356f42f7.js",
+    "index.html": "/digital_assignment/index.html",
+    "main.066ac87f.css.map": "/digital_assignment/static/css/main.066ac87f.css.map",
+    "main.356f42f7.js.map": "/digital_assignment/static/js/main.356f42f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066ac87f.css",
+    "static/js/main.356f42f7.js"
+  ]
+}
